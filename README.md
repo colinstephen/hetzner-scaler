@@ -6,7 +6,7 @@ This repository contains a Python script to scale a Hetzner cloud server by chan
 
 1. Clone this repository:
    
-   `git clone https://github.com/colinstephen/hetzner-scaler.git cd hetzner-scaler`
+   `git clone https://github.com/colinstephen/hetzner-scaler.git && cd hetzner-scaler`
 
 2. Create a virtual environment and activate it:
 
