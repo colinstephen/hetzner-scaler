@@ -10,7 +10,7 @@ This repository contains a Python script to scale a Hetzner cloud server by chan
 
 2. Create a virtual environment and activate it:
 
-    `python -m venv venv source venv/bin/activate # On Windows, use "venv\Scripts\activate"`
+    `python -m venv venv && source venv/bin/activate # On Windows, use "venv\Scripts\activate"`
 
 3. Install the required packages:
 
